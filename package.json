@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-simple-restfull-test-with-mocha",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "express": "^4.13.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "should": "^7.0.2",
+    "supertest": "^1.0.1"
+  }
+}
